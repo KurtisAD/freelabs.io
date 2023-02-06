@@ -5,4 +5,4 @@
 3. [Git](https://git-scm.com/downloads)
 
 ### Install Scripts
-[Windows Powershell](scripts/tortoise-setup.ps)
+[Windows Powershell](scripts/tortoise-setup.ps1)
