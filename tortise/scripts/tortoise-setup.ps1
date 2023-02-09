@@ -11,7 +11,7 @@ git clone $RepoUrl
 cd .\$RepoName
 
 # Setup venv
-conda create -n $RepoName
+conda create -n $RepoName python=3.10
 conda activate $RepoName
 
 # Install Requirements
